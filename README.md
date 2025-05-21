@@ -14,5 +14,4 @@ This project provides a public, regularly maintained list of disposable email do
 
 ## 📁 Files
 
-- `domains.txt`: Plain text list, one domain per line
-- (Optional) `domains.json`: JSON formatted version of the list
+- `disposable_email_blocklist.conf`: Plain text list, one domain per line
